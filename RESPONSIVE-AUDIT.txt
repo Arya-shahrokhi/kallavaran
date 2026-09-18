@@ -1,0 +1,5 @@
+Routes checked: 38
+Routed page/layout components checked: 28
+JSX components checked: 70
+Viewports modeled: 320, 360, 390, 768, 1024, 1440 px
+PASSED: responsive static regression audit
